@@ -1,0 +1,3 @@
+pcompile prog4.s
+ldpic32 prog4.hex -p /dev/ttyS3
+pterm -p /dev/ttyS3

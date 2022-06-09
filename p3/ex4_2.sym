@@ -1,0 +1,21 @@
+GAS LISTING ex4_2.s 			page 1
+
+
+DEFINED SYMBOLS
+             ex4_2.s:1      *ABS*:000000000000bf88 BASE
+             ex4_2.s:3      *ABS*:0000000000006100 TRISE
+             ex4_2.s:4      *ABS*:0000000000006110 PORTE
+             ex4_2.s:5      *ABS*:0000000000006120 LATE
+             ex4_2.s:7      *ABS*:0000000000006040 TRISB
+             ex4_2.s:8      *ABS*:0000000000006050 PORTB
+             ex4_2.s:9      *ABS*:0000000000006060 LATB
+             ex4_2.s:15     .text:0000000000000000 main
+             ex4_2.s:27     .text:0000000000000020 shift
+             ex4_2.s:36     .text:0000000000000048 left
+             ex4_2.s:42     .text:0000000000000064 right
+             ex4_2.s:55     .text:0000000000000090 delay
+             ex4_2.s:51     .text:0000000000000088 reset_left
+             ex4_2.s:48     .text:0000000000000080 reset_right
+             ex4_2.s:58     .text:0000000000000098 while_delay
+
+NO UNDEFINED SYMBOLS

@@ -1,0 +1,11 @@
+GAS LISTING prog4.s 			page 1
+
+
+DEFINED SYMBOLS
+             prog4.s:2      .data:0000000000000000 str1
+             prog4.s:3      .data:000000000000001e str2
+             prog4.s:4      .data:0000000000000027 str3
+             prog4.s:8      .text:0000000000000000 main
+             prog4.s:10     .text:0000000000000000 while
+
+NO UNDEFINED SYMBOLS
